@@ -20,7 +20,7 @@ When your repository will be used by users outside the organisation its useful t
 For now you can use the default *Bug* and *Feature* template given by github.
 
 ## Action templates
-In the [action-template](https://github.com/rubicon-n/rubicon-nl) folder you can find action templates for the following project types
+In the [workflow-template](https://github.com/rubicon-nl/rubicon-nl/tree/master/workflow-templates) folder you can find action templates for the following project types
 * Dotnet Core
 * Dotnet
 * Angular
