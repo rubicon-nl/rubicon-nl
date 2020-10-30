@@ -15,6 +15,10 @@ The following protection rules must be enabled en configured
   * Require branches to be up to date before merging
 * Restrict who can push to mathcing branches
 
+## Issue templates
+When your repository will be used by users outside the organisation its useful to set up issue templates.
+For now you can use the default *Bug* and *Feature* template given by github.
+
 ## Action templates
 In the [action-template](https://github.com/rubicon-n/rubicon-nl) folder you can find action templates for the following project types
 * Dotnet Core
